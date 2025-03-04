@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Egor\Desktop\Exam1\Header.h(49,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\Egor\Desktop\Exam1\Header.h(329,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\Egor\Desktop\Exam1\Source.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Exam.vcxproj -> C:\Users\Egor\Desktop\Exam1\x64\Debug\Exam.exe
